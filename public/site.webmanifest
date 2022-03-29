@@ -3,12 +3,12 @@
   "short_name": "WJSN Heardle",
   "icons": [
     {
-      "src": "https://cdn.glitch.global/9a8a7fbe-d03d-412a-b954-b60d271a3634/wjsnREAL%20192x192.png?v=1648526305854",
+      "src": "https://cdn.glitch.global/9a8a7fbe-d03d-412a-b954-b60d271a3634/wjsnREAL.png?v=1648525585905",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://cdn.glitch.global/9a8a7fbe-d03d-412a-b954-b60d271a3634/wjsnREAL%20%20512x512.png?v=1648526303478",
+      "src": "https://cdn.glitch.global/9a8a7fbe-d03d-412a-b954-b60d271a3634/wjsnREAL.png?v=1648525585905",
       "sizes": "512x512",
       "type": "image/png"
     },
